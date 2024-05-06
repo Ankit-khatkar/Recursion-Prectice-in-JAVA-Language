@@ -1,0 +1,36 @@
+Que 1:- Calculate the sum of N numbers using recursion ?
+Que 2:- Find the GCD (Greatest Common Divisor) of any two numbers ?
+Que 3:- Count the digit of any number ?
+Que 4:- Check the number that it's Armstrong or not ?
+Que 5:- Do the product of any two numbers using recursion ?
+Que 6:- Check the number that it is prime number or not ?
+Que 7:- Print the array using recursion ? (I could not done it)
+Que 8:- Find the maximum value from the array ?
+Que 9:- Check the number that it's prime or not ?
+Que 10:- Get the Binary number form the Integer ?
+Que 11:- Create the power function that provides x to the power y ( 2 to the power 2 is equal 4) ?
+Que 12:- Print the elements of String Array using recursion ? (Could not done it)
+Que 13:- Print the nth fibonaci number ?
+Que 14:- Print every digit of a number?
+Que 15:- Print the sum of an Integer array ?
+Que 16:- Write the function to get minimum value form the array ?
+Que 17:- Write the programme to get the sum of the array ?
+Que 18:- Write the function that check for specific element that it exist or not in Integer array ?
+Que 19:- Write a function that returns arraylist of all indecision of array integers ?
+Que 20:- Retrun the arraylist of indices form starting Integer's index to last Integer's Index ?
+          [Exe:- Array={2,3,45,6,78,63,8}
+          inputs:- starts= 45 end=63
+          output:- Arraylist={2,3,4,5}]
+Could not done Question number 20.
+Que 21:- Check that the array isSorted or not (Ascending Order) ?
+Que 22:- Check that the array isSorted or not (Descending Order) ?
+Que 23:- Write a function that Reverse the string recursively ?
+Que 24:- Make a string by take each element from string 1 and string 2 respectively ?
+         [Exe:- Str1=Ankit && Str2=Rohan
+         S+R+n+o+k+a+i+n+t
+         Output:- SRnokaint]
+
+         NOTE:- length of both string will be same.
+Que 25:- Check the string that it is Palindrome String or not ?
+Que 26:- Write the code that generate the factorial of positive number ?
+
